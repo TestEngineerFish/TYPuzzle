@@ -1,0 +1,6 @@
+framework module TYPuzzle {
+  umbrella header "TYPuzzle-umbrella.h"
+
+  export *
+  module * { export * }
+}
